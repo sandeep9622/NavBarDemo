@@ -1,0 +1,50 @@
+body{
+    padding: 2em;
+    font-size: large;
+}
+
+.nav-logo{
+    width: 20%;
+}
+
+.nav-logo-img{
+    width: 82%;
+    margin-left: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.links > li > a{
+    font-weight:normal;
+    margin:1em;
+    font-size: large;
+    border-bottom: 1px solid rgba(218, 167, 0, 0);
+}
+
+.links > li > a:hover{
+    border-bottom: 1px solid rgba(218, 167, 0, 0.925);
+}
+
+span{
+    display:block;
+}
+
+.icons{
+    display:inline-block;
+    padding: 1em;
+}
+.button-icons{
+    width:10%;
+    display: inline-block;
+}
+button{
+    width: 15em;
+}
+h3{
+    display: inline;
+}
+
+.call-button{
+    padding: 0.5em;
+    margin: 0em;
+}
